@@ -7,7 +7,6 @@ const [fruit1, fruit2] = fruits;
 console.log(fruit1);
 console.log(fruit2);
 
-
 // 2.⁠ ⁠Swap Variables
 // Use array destructuring to swap a and b.
 let a = 5;
@@ -159,13 +158,4 @@ const developer = {
 };
   const {skills: [firstskill]} = developer;
   console.log('firstskill: ', firstskill);
-
-
-
-
-
-
-
-
-
 
